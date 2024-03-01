@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contact_container {
+  background-image: url("../src/assets/Groupe\ 14297.png");
+  background-repeat: repeat-x;
+  width: 100%;
+}
+
+.products_background {
+  background-image: url("../src/assets/Groupe\ 14282.png");
+  background-position: center;
+}
+
+.footer {
+  background-image: url("../src/assets/Groupe\ 14269.png");
+  width: 100%;
+}
+
+.input_newsletter {
+  background: transparent;
+}
+
+.input {
+  background: transparent;
+  padding-bottom: 1rem;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.input::placeholder {
+  font: 1.2rem/3 sans-serif;
+  color: "#D4D4BB";
+  padding-bottom: 1rem;
+}

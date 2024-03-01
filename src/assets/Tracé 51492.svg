@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="383.292" height="349.906" viewBox="0 0 383.292 349.906">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.535" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4c41e"/>
+      <stop offset="1" stop-color="#d6da21"/>
+    </radialGradient>
+  </defs>
+  <path id="Tracé_51492" data-name="Tracé 51492" d="M305.7,261.551C197.175,378.9-87.548,207.6,26.459,45.615,81.607-24.2,162.11.7,223.376,25.017,334.062,81.933,376.679,184.807,305.7,261.551Z" transform="translate(383.292 296.64) rotate(171)" fill="url(#radial-gradient)"/>
+</svg>
